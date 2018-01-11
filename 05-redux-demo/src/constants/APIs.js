@@ -1,0 +1,1 @@
+export const getGithubInfo ='https://api.github.com/users/zhaozhuoboy';

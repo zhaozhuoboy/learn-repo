@@ -1,0 +1,23 @@
+{
+  "name": "node-study",
+  "version": "1.0.0",
+  "description": "nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaozhuoboy/node-study.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "zhaozhuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaozhuoboy/node-study/issues"
+  },
+  "homepage": "https://github.com/zhaozhuoboy/node-study#readme"
+}
